@@ -1,3 +1,6 @@
+/*
+Developer: Nova Novriansyah
+*/
 // Initialize Web3 with Infura Provider
 const web3 = new Web3(new Web3.providers.HttpProvider('https://mainnet.infura.io/v3/ce1f6d3b9eb0402d9c3a0a82fe1ead12'));
 
